@@ -1,0 +1,158 @@
+
+/*------------------------------------
+- COLOR belge_custom
+------------------------------------*/
+
+$belge_custom_t1: #f8f5ed;
+$belge_custom_t2: #e9e0c8;
+$belge_custom_t3: #12413415e;
+$belge_custom_t4: #12b13e171;
+$belge_custom_t5: #d5c494;
+$belge_custom_t6: #e5dabd;
+$belge_custom_t7: #eee6d3;
+$belge_custom_t8: #c7af70;
+$belge_custom_t9: #13114617f;
+
+$belge_custom_shadow: rgba(248, 245, 237, 0.5);
+$belge_custom_text_color_dark_bright: #212529;
+
+
+.alert-belge_custom {
+  color: $belge_custom_t5;
+  background-color: $belge_custom_t9;
+  border-color: $belge_custom_t4;
+}
+
+.alert-belge_custom hr {
+  border-top-color: $belge_custom_t3;
+}
+
+.alert-belge_custom .alert-link {
+  color: $belge_custom_t8;
+}
+
+.badge-belge_custom {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t1;
+}
+
+.badge-belge_custom[href]:hover, .badge-belge_custom[href]:focus {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t2;
+}
+
+.bg-belge_custom {
+  background-color: $belge_custom_t1 !important;
+}
+
+a.bg-belge_custom:hover, a.bg-belge_custom:focus,
+button.bg-belge_custom:hover,
+button.bg-belge_custom:focus {
+  background-color: $belge_custom_t2 !important;
+}
+
+.border-belge_custom {
+  border-color: $belge_custom_t1 !important;
+}
+
+.btn-belge_custom {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t1;
+  border-color: $belge_custom_t1;
+}
+
+.btn-belge_custom:hover {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t7;
+  border-color: $belge_custom_t2;
+}
+
+.btn-belge_custom:focus, .btn-belge_custom.focus {
+  box-shadow: 0 0 0 0.2rem $belge_custom_shadow;
+}
+
+.btn-belge_custom.disabled, .btn-belge_custom:disabled {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t1;
+  border-color: $belge_custom_t1;
+}
+
+.btn-belge_custom:not(:disabled):not(.disabled):active, .btn-belge_custom:not(:disabled):not(.disabled).active, .show > .btn-belge_custom.dropdown-toggle {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t2;
+  border-color: $belge_custom_t6;
+}
+
+.btn-belge_custom:not(:disabled):not(.disabled):active:focus, .btn-belge_custom:not(:disabled):not(.disabled).active:focus, .show > .btn-belge_custom.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $belge_custom_shadow;
+}
+
+.btn-outline-belge_custom {
+  color: $belge_custom_t1;
+  background-color: transparent;
+  border-color: $belge_custom_t1;
+}
+
+.btn-outline-belge_custom:hover {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t1;
+  border-color: $belge_custom_t1;
+}
+
+.btn-outline-belge_custom:focus, .btn-outline-belge_custom.focus {
+  box-shadow: 0 0 0 0.2rem $belge_custom_shadow;
+}
+
+.btn-outline-belge_custom.disabled, .btn-outline-belge_custom:disabled {
+  color: $belge_custom_t1;
+  background-color: transparent;
+}
+
+.btn-outline-belge_custom:not(:disabled):not(.disabled):active, .btn-outline-belge_custom:not(:disabled):not(.disabled).active, .show > .btn-outline-belge_custom.dropdown-toggle {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t1;
+  border-color: $belge_custom_t1;
+}
+
+.btn-outline-belge_custom:not(:disabled):not(.disabled):active:focus, .btn-outline-belge_custom:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-belge_custom.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $belge_custom_shadow;
+}
+
+.list-group-item-belge_custom {
+  color: $belge_custom_t5;
+  background-color: $belge_custom_t4;
+}
+
+.list-group-item-belge_custom.list-group-item-action:hover, .list-group-item-belge_custom.list-group-item-action:focus {
+  color: $belge_custom_t5;
+  background-color: $belge_custom_t3;
+}
+
+.list-group-item-belge_custom.list-group-item-action.active {
+  color: $belge_custom_text_color_dark_bright;
+  background-color: $belge_custom_t5;
+  border-color: $belge_custom_t5;
+}
+
+.table-belge_custom,
+.table-belge_custom > th,
+.table-belge_custom > td {
+  background-color: $belge_custom_t4;
+}
+
+.table-hover .table-belge_custom:hover {
+  background-color: $belge_custom_t3;
+}
+
+.table-hover .table-belge_custom:hover > td,
+.table-hover .table-belge_custom:hover > th {
+  background-color: $belge_custom_t3;
+}
+
+.text-belge_custom {
+  color: $belge_custom_t1 !important;
+}
+
+a.text-belge_custom:hover, a.text-belge_custom:focus {
+  color: $belge_custom_t2 !important;
+}

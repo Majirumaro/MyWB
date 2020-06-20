@@ -1,0 +1,144 @@
+/*------------------------------------
+- COLOR belge_custom
+------------------------------------*/
+.alert-belge_custom {
+  color: #d5c494;
+  background-color: #13114617 f;
+  border-color: #12b13e17 1;
+}
+
+.alert-belge_custom hr {
+  border-top-color: #12413415 e;
+}
+
+.alert-belge_custom .alert-link {
+  color: #c7af70;
+}
+
+.badge-belge_custom {
+  color: #212529;
+  background-color: #f8f5ed;
+}
+
+.badge-belge_custom[href]:hover, .badge-belge_custom[href]:focus {
+  color: #212529;
+  background-color: #e9e0c8;
+}
+
+.bg-belge_custom {
+  background-color: #f8f5ed !important;
+}
+
+a.bg-belge_custom:hover, a.bg-belge_custom:focus,
+button.bg-belge_custom:hover,
+button.bg-belge_custom:focus {
+  background-color: #e9e0c8 !important;
+}
+
+.border-belge_custom {
+  border-color: #f8f5ed !important;
+}
+
+.btn-belge_custom {
+  color: #212529;
+  background-color: #f8f5ed;
+  border-color: #f8f5ed;
+}
+
+.btn-belge_custom:hover {
+  color: #212529;
+  background-color: #eee6d3;
+  border-color: #e9e0c8;
+}
+
+.btn-belge_custom:focus, .btn-belge_custom.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 245, 237, 0.5);
+}
+
+.btn-belge_custom.disabled, .btn-belge_custom:disabled {
+  color: #212529;
+  background-color: #f8f5ed;
+  border-color: #f8f5ed;
+}
+
+.btn-belge_custom:not(:disabled):not(.disabled):active, .btn-belge_custom:not(:disabled):not(.disabled).active, .show > .btn-belge_custom.dropdown-toggle {
+  color: #212529;
+  background-color: #e9e0c8;
+  border-color: #e5dabd;
+}
+
+.btn-belge_custom:not(:disabled):not(.disabled):active:focus, .btn-belge_custom:not(:disabled):not(.disabled).active:focus, .show > .btn-belge_custom.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 245, 237, 0.5);
+}
+
+.btn-outline-belge_custom {
+  color: #f8f5ed;
+  background-color: transparent;
+  border-color: #f8f5ed;
+}
+
+.btn-outline-belge_custom:hover {
+  color: #212529;
+  background-color: #f8f5ed;
+  border-color: #f8f5ed;
+}
+
+.btn-outline-belge_custom:focus, .btn-outline-belge_custom.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 245, 237, 0.5);
+}
+
+.btn-outline-belge_custom.disabled, .btn-outline-belge_custom:disabled {
+  color: #f8f5ed;
+  background-color: transparent;
+}
+
+.btn-outline-belge_custom:not(:disabled):not(.disabled):active, .btn-outline-belge_custom:not(:disabled):not(.disabled).active, .show > .btn-outline-belge_custom.dropdown-toggle {
+  color: #212529;
+  background-color: #f8f5ed;
+  border-color: #f8f5ed;
+}
+
+.btn-outline-belge_custom:not(:disabled):not(.disabled):active:focus, .btn-outline-belge_custom:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-belge_custom.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 245, 237, 0.5);
+}
+
+.list-group-item-belge_custom {
+  color: #d5c494;
+  background-color: #12b13e17 1;
+}
+
+.list-group-item-belge_custom.list-group-item-action:hover, .list-group-item-belge_custom.list-group-item-action:focus {
+  color: #d5c494;
+  background-color: #12413415 e;
+}
+
+.list-group-item-belge_custom.list-group-item-action.active {
+  color: #212529;
+  background-color: #d5c494;
+  border-color: #d5c494;
+}
+
+.table-belge_custom,
+.table-belge_custom > th,
+.table-belge_custom > td {
+  background-color: #12b13e17 1;
+}
+
+.table-hover .table-belge_custom:hover {
+  background-color: #12413415 e;
+}
+
+.table-hover .table-belge_custom:hover > td,
+.table-hover .table-belge_custom:hover > th {
+  background-color: #12413415 e;
+}
+
+.text-belge_custom {
+  color: #f8f5ed !important;
+}
+
+a.text-belge_custom:hover, a.text-belge_custom:focus {
+  color: #e9e0c8 !important;
+}
+
+/*# sourceMappingURL=my-colors.css.map */
